@@ -12,7 +12,7 @@ import { useTheme } from 'next-themes';
 // import lightLogo from '@/public/logo-black.svg';
 
 const navLinks = [
-  // { href: '/resume', name: 'Resume' },
+   { href: '#', name: 'Resume' },
   // { href: '/projects', name: 'Projects' },
   // { href: '/testimonials', name: 'Testimonials' },
 ];
